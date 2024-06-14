@@ -13,7 +13,5 @@ A quick prototype of a video analytics solution to analyse content from a video.
 
 <img src="example2.jpg">
 
-## Documentation
-https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview
 
-12-May-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
+
